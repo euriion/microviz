@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Micro Visualization
-tagline: Data Visualization
+tagline: Tiny Data Visualization
 author :
   name : Seonghak Hong
   email : euriion@gmail.com
